@@ -1,2 +1,2 @@
-# Trello_analytics
-Project to analyse trello cards
+# Trello_analysis
+A analysis of my Job search Trello panel
