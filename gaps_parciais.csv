@@ -1,0 +1,36 @@
+gap_tag,descricao,tipo,id_vaga
+ falta de experiência em análise estatística avançada,"A candidata não mencionou experiência específica em análises estatísticas avançadas, como modelagem Bayesian ou análise de componentes principais. Embora tenha mencionado aplicação de técnicas estatísticas em dados governamentais, o currículo não apresenta detalhes suficientes sobre essa experiência.",experiencia,684c138a5be4f9abe78529e7
+tecnologia_ambiente,Falta de experiência com plataformas de cloud como AWS ou Azure.,outro,684c158cb782e70273ba70ea
+regiao_geografica,"A candidata não tem experiência trabalhada na região dos EUA, embora tenha trabalhado no Irlanda e no Brasil.",experiencia,684c158cb782e70273ba70ea
+tech_stack_outdated,A tecnologia utilizada na última vaga é mais avançada do que as habilidades apresentadas pela candidata.,tecnico,68513c86c8825584ffc53bd9
+experiencia_brasil,A experiência da candidata no Brasil parece ser mais focada em outras áreas e não diretamente relacionada à área de trabalho proposta na vaga.,experiencia,68513c86c8825584ffc53bd9
+ Falta de exposição em trabalhos publicados ,A candidata poderia melhorar a apresentação dos seus projetos e trabalhos publicados.,outro,685d4b55fdd2db6d8d2a88f0
+ Falta de certificação em modelagem de IA generativa,A candidata poderia adicionar mais informações sobre as suas certificações em modelagem de IA generativa.,experiencia,685d4b55fdd2db6d8d2a88f0
+experiencia,"Falta de experiência em criptomoedas, embora tenha mencionado que está interessada no papel.",experiencia,686e3e55c42224bcc20f55f1
+experience_gap_1,A falta de experiência em desenvolvimento de modelos de IA Generativa é um ponto de melhoria.,experiencia,686e78ff04d8af0dc03ac42b
+certificação_gap_1,"Falta de certificação em Power BI para Data Science, embora tenha conhecimento da ferramenta.",certificação,686e78ff04d8af0dc03ac42b
+projeto_gap_1,A falta de um projeto específico em CIÊNCIA DE DADOS como diretorio do currículo é uma omíssia.,projeto,686e78ff04d8af0dc03ac42b
+analisar_indicadores_de_desempenho_alongo_do_funil,A candidata não mencionou explicitamente como analisou os indicadores de desempenho ao longo do funil utilizando dados importados do Google Analytics.,experiencia,686f8beef2c0d5849fccb611
+aplicar_técnicas_estatísticas_em_dados_governamentais,"A candidata mencionou que aplicou técnicas estatísticas em dados governamentais, mas não especificou quais técnicas ou por que.",experiencia,686f8beef2c0d5849fccb611
+tratar_transformar_dados_incluindo_limpeza_de_registros_ausentes,"A candidata mencionou que tratou e transformou dados, mas não especificou se incluiu a limpeza de registros ausentes.",experiencia,686f8beef2c0d5849fccb611
+aplicar_técnicas_estatísticas_em_dados_governamentais_como_regressão_linear_e_logistica,"A candidata mencionou que aplicou técnicas estatísticas em dados governamentais, mas não especificou se incluiu a regressão linear e logística.",experiencia,686f8beef2c0d5849fccb611
+tecnologia_inadequada,"A experiência de uso de Databricks e GitLab não é claramente relacionada à vaga, que especifica a necessidade de habilidades em marketing data analyst.",tecnico,686f9137d44ce68fd61c5644
+experiencia_relevante,"A experiência como Data Scientist em SkySpecs não é completamente relevante para a vaga, que busca profissionais com experiência em marketing data analyst.",experiencia,686f9137d44ce68fd61c5644
+tecnologia,"A vaga menciona a necessidade de conhecimento em Excel avançado, mas o currículo destaca uma experiência com Power BI.",tecnico,686f93601f606288171ee623
+experiencia,O currículo não menciona nenhuma experiência em gerar relatórios ou análises estratégicas para garantir integridade e qualidade dos dados.,experiencia,686f93601f606288171ee623
+experiencia_profissional,"A experiência profissional da candidata parece estar um pouco desorganizada, com muitas informações não relevantes para o cargo solicitado.",experiencia,686f9447a163862059eec62f
+tecnologia,"A vaga não menciona especificamente a necessidade de experiência com tecnologias como GPU, TensorFlow ou outras ferramentas específicas de computação paralela.",tecnico,686fad0bb2ae639eaa4fe72a
+projeto,A vaga não menciona explicitamente se o candidato deve apresentar um projeto pessoal ou contribuir com um projeto existente que tenha relação com a área de responsabilidade do cargo.,outro,686fad0bb2ae639eaa4fe72a
+desenvolvimento_dashboards,A candidata pode melhorar sua experiência com Power BI e Dash para desenvolver dashboards mais interativos e personalizados.,tecnico,686fe5287a1bb34b929d659e
+revisao_projetos,"A candidata poderia trabalhar em projetos de revisão e avaliação de modelos de classificação, especialmente em áreas como IA Generativa e NLP.",outro,686fe5287a1bb34b929d659e
+linguagem_natural,Falta de experiência em linguagem natural para o desenvolvimento de soluções com LLMs.,outro,686fe5d78b2ddb1a43398280
+experiencia_comercial,Falta de experiência em trabalhar com equipes comerciais e operacionais em grandes empresas.,experiencia,686fe5d78b2ddb1a43398280
+tecnico,Falta de mência em Power BI com relação à criação de dashboards interativos para monitoramento de market share e indicadores de desempenho.,tecnico,68716ba379a06ddbeb2a945c
+experiencia,"A falta de experiência em Big Data Analytics é notável, sendo recomendada prática com tecnologias como Hadoop, Spark e NoSQL.",experiencia,68716ba379a06ddbeb2a945c
+experiência_completa,"A candidata parece ter experiência relevante em dados, mas não há uma descrição clara de como as habilidades e competências foram aplicadas em projetos específicos.",experiência,68716ce5231a785387937894
+habilidade_programacao,"A candidata listou várias ferramentas e tecnologias, mas não há uma descrição clara de como elas são aplicadas em projetos específicos.",programação,68716ce5231a785387937894
+comunicação,"A candidata parece ter habilidade em comunicar resultados complexos a públicos diversos, mas não há uma descrição clara de como isso foi alcançado.",comunicação,68716ce5231a785387937894
+experiencia_compania_gerente,"A candidata não mencionou nenhuma experiência de liderança ou gestão de equipe, embora tenha trabalhado em times e colaborado com equipes.",experiencia,68716d726926a268dbf57e71
+certificaçao_mlops,"A candidata não mencionou nenhuma certificação em MLOps, embora tenha conhecimento em tools como Databricks e GitLab.",certificações,68716d726926a268dbf57e71
+experiencia_goiano,"A candidata carece de experiência em Goiás, embora tenha trabalhado como Lider de Área na FAPEG.",experiencia,687173402b02fe34a7dbc98e
+certificacao_shiny,"A candidata não possui certificação em Shiny, embora tenha mencionado sua experiência com R Shiny em seu currículo.",certificacao,687173402b02fe34a7dbc98e
